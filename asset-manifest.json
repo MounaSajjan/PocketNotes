@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MounaSajjan/PocketNotes/static/css/main.7a3e28a7.css",
+    "main.js": "/MounaSajjan/PocketNotes/static/js/main.3240ce69.js",
+    "static/media/home.png": "/MounaSajjan/PocketNotes/static/media/home.051c5dd6cf08bd17366f.png",
+    "index.html": "/MounaSajjan/PocketNotes/index.html",
+    "main.7a3e28a7.css.map": "/MounaSajjan/PocketNotes/static/css/main.7a3e28a7.css.map",
+    "main.3240ce69.js.map": "/MounaSajjan/PocketNotes/static/js/main.3240ce69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3e28a7.css",
+    "static/js/main.3240ce69.js"
+  ]
+}
