@@ -14,7 +14,7 @@ function App() {
       ? JSON.parse(localStorage.getItem("noteGroups"))
       : []
   );
-  const [newNoteGroup, setNewNoteGroup] = useState({
+  const [setNewNoteGroup] = useState({
     id: "",
     name: "",
     notes: [],
